@@ -1,4 +1,4 @@
-# ✌️ Hello! Welcome to my Github profile.
+![instagram-color](https://github.com/josewellingtonn/josewellingtonn/assets/152819590/480081ef-512a-4e77-b69f-892cd2bfb4cd)# ✌️ Hello! Welcome to my Github profile.
 ## My name is José Wellington and my nickname is "Well"!
 
 - 💼 I am currently not working.
@@ -18,5 +18,5 @@
 ## Contacts:
 
 <div>
-  <a href="https://instagram.com/josewellingtonn_" target="_blank"><img loading="lazy" src="https://simpleicons.org/icons/instagram.svg"></a>
+  <a href="https://instagram.com/josewellingtonn_" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
