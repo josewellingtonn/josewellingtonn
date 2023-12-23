@@ -9,7 +9,14 @@
 - 🚩 I'm from Brusque, Santa Catarina.
 - 💎 I am currently 17 years old.
 
-  ## Tools and Technologies I master
+## Tools and Technologies I master
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
+
+## Contacts:
+
+<div>
+  <a href="https://instagram.com/josewellingtonn_" target="_blank"><img loading="lazy" src="https://simpleicons.org/icons/instagram.svg"></a>
+</div>
