@@ -24,8 +24,8 @@
 <br/>
 <div>
   <a href="https://github.com/josewellingtonn">
-    <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josewellingtonn&layout=compact&langs_count=7&theme=dracula">
-    <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api?username=josewellingtonn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+    <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josewellingtonn&layout=compact&langs_count=7&theme=dracula">
+    <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=josewellingtonn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
     <img loading="lazy" height="170em" src="https://github.com/josewellingtonn/josewellingtonn/assets/152819590/c140f677-a9db-4c80-8666-b98291bcd9dc">
   </a>
 </div>
