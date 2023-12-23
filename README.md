@@ -1,4 +1,4 @@
-![instagram-color](https://github.com/josewellingtonn/josewellingtonn/assets/152819590/480081ef-512a-4e77-b69f-892cd2bfb4cd)# ✌️ Hello! Welcome to my Github profile.
+# ✌️ Hello! Welcome to my Github profile.
 ## My name is José Wellington and my nickname is "Well"!
 
 - 💼 I am currently not working.
@@ -19,4 +19,5 @@
 
 <div>
   <a href="https://instagram.com/josewellingtonn_" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/josewellington2901/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
